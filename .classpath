@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="FinalProject/src"/>
+	<classpathentry kind="src" path="Midterm/endterm/src"/>
+	<classpathentry kind="src" path="Midterm/interfaces2/src"/>
+	<classpathentry kind="src" path="Midterm/lab3/src"/>
+	<classpathentry kind="src" path="Midterm/streamsExamples/src"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="FinalProject/bin"/>
+</classpath>
